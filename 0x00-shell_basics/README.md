@@ -1,1 +1,1 @@
-Readme file for shell basics
+Readme file for listing contents of current directory
