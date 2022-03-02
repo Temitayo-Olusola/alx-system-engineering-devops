@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/iamafile.ex
+iamafile iamafile.c iamafile /dev/{wd0a,hda}
