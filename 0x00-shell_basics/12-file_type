@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/iamafile -b iamafile.txt
+/tmp/iamafile -s iamafile /dev/hda{1}
